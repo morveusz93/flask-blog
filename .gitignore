@@ -146,4 +146,4 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# End of https://www.toptal.com/developers/gitignore/api/flask
+# End of https://www.toptal.com/developers/gitignore/api/flaskgit remote add origin https://github.com/morveusz93/flask-blog.git
